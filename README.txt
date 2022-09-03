@@ -1,0 +1,2 @@
+Davis Portfolio Website
+In this site, you will see how I tell stories with data, my data journey, my thought-process, my projects where I demonstrated some of my skills such as analytical, statistical, logical, creative  and many other skills.
